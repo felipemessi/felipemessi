@@ -1,27 +1,31 @@
-## Hi!
+# Olá, eu sou o Felipe Braga 👋
 
-Just a T.I. lover! (almost ever a nice guy) <3
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://br.linkedin.com/in/felipegbraga)
 
-"Somethimes I think that I can fly" 
+## Sobre mim
 
+Sou Desenvolvedor de Software Sêniorcom **6 anos de experiência** em desenvolvimento backend, automação, IA e cloud. 
 
-## Soft Skills
-- Ownership;
-- Proactivity;
-- Team Play;
+## Competências técnicas
 
-## Hard Skills
-- Javascript (Vanilla)
-- Python
-- HTML5 and CSS3
+- Linguagens: **Python** e **TypeScript**
+- Frameworks / Ferramentas: **FastAPI**, **Docker**, **Kubernetes**  
+- Metodologias: **TDD**, **Agile / Scrum**  
+- Infraestrutura: **GCP**, **CI/CD**, **Observabilidade**
 
-## Extras
-- Scrum Developer
-- Scrum Master
+## Projetos
 
-## Studing
-- Node
-- React
-- React Native
-- Java (Spark)
+Aqui alguns projetos que estou desenvolvendo ou já desenvolvi:
+
+- **Projeto 1** — breve descrição + link  
+- **Projeto 2** — breve descrição + link
+
+## Educação
+
+- **FATEC São José dos Campos / Banco de Dados** — 2022  
+
+## Contato
+
+- 🔗 LinkedIn: [felipegbraga](https://br.linkedin.com/in/felipegbraga)  
+
 
